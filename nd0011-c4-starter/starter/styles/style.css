@@ -1,0 +1,30 @@
+li {
+  list-style: none;
+}
+
+body {
+  display: flex;
+  font-family: "Inter", sans-serif;
+}
+
+main {
+  width: 100%;
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notVisible {
+  display: none;
+}
+
+button {
+  border: none;
+  background-color: #45e9f5;
+  color: #fff; /* Shortened color */
+  text-transform: uppercase;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 0.5rem;
+}

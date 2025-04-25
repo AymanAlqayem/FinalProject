@@ -1,0 +1,23 @@
+{
+  "name": "study-night",
+  "version": "1.0.0",
+  "description": "A flashcard application for studying",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "gulp": "gulp --gulpfile gulpfile.cjs",
+    "test": "gulp test --gulpfile gulpfile.cjs",
+    "cypress": "cypress run --config-file nd0011-c4-starter/cypress.config.js"
+  },
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "cypress": "^13.17.0",
+    "eslint": "^8.57.1",
+    "gulp": "^5.0.0",
+    "gulp-cli": "^3.0.0",
+    "gulp-shell": "^0.6.3",
+    "mocha": "^10.8.2",
+    "parcel": "^2.14.4",
+    "prettier": "^3.5.3"
+  }
+}

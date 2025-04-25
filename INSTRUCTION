@@ -1,0 +1,35 @@
+# Study Night
+
+A digital study solution for the modern world, featuring flashcard creation and study sessions.
+
+## Tech Stack
+- HTML, CSS, JavaScript
+- Parcel (bundler)
+- Gulp (task runner)
+- Mocha/Chai (unit testing)
+- Cypress (E2E testing)
+- ESLint/Prettier (linting and formatting)
+
+## Project Structure
+- `nd0011-c4-starter/starter/`: Contains the app source code (`index.html`, `src/`, `styles/`, `images/`, `test/`, `e2e/`).
+- `nd0011-c4-starter/cypress/`: Contains Cypress configuration and support files.
+- `dist/`: Output directory for the built app.
+- `gulpfile.cjs`: Gulp tasks for building, serving, and testing.
+
+## Setup Instructions
+1. Clone the repository.
+2. Navigate to the project directory:
+3. Install dependencies:
+4. Run the app:
+The app will be available at `http://localhost:1234`.
+
+## Running Tests
+- Unit tests (Mocha):
+- E2E tests (Cypress):
+
+## Features
+- Create and manage flashcard sets.
+- Add cards with questions and answers.
+- Study flashcards with a shuffle feature.
+- Responsive navigation between Home, About, and Card Sets pages.
+
