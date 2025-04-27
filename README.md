@@ -20,4 +20,3 @@ Study Night is a web application designed to help students study more effectivel
 - **Cypress**: End-to-end testing framework for testing navigation and form interactions.
 - **ESLint/Prettier**: Tools for linting and formatting code to maintain quality.
 
-## Project Structure
